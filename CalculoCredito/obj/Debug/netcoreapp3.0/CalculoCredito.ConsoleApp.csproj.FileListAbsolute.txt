@@ -12,3 +12,17 @@ C:\Users\nando\Documents\Teste\CalculoCredito\CalculoCredito\obj\Debug\netcoreap
 C:\Users\nando\Documents\Teste\CalculoCredito\CalculoCredito\bin\Debug\netcoreapp3.0\CalculoCredito.Application.dll
 C:\Users\nando\Documents\Teste\CalculoCredito\CalculoCredito\bin\Debug\netcoreapp3.0\CalculoCredito.Application.pdb
 C:\Users\nando\Documents\Teste\CalculoCredito\CalculoCredito\obj\Debug\netcoreapp3.0\CalculoCredito.ConsoleApp.csproj.CopyComplete
+C:\CalculoCredito\CalculoCredito\bin\Debug\netcoreapp3.0\CalculoCredito.ConsoleApp.exe
+C:\CalculoCredito\CalculoCredito\bin\Debug\netcoreapp3.0\CalculoCredito.ConsoleApp.deps.json
+C:\CalculoCredito\CalculoCredito\bin\Debug\netcoreapp3.0\CalculoCredito.ConsoleApp.runtimeconfig.json
+C:\CalculoCredito\CalculoCredito\bin\Debug\netcoreapp3.0\CalculoCredito.ConsoleApp.runtimeconfig.dev.json
+C:\CalculoCredito\CalculoCredito\bin\Debug\netcoreapp3.0\CalculoCredito.ConsoleApp.dll
+C:\CalculoCredito\CalculoCredito\bin\Debug\netcoreapp3.0\CalculoCredito.ConsoleApp.pdb
+C:\CalculoCredito\CalculoCredito\bin\Debug\netcoreapp3.0\CalculoCredito.Application.dll
+C:\CalculoCredito\CalculoCredito\bin\Debug\netcoreapp3.0\CalculoCredito.Application.pdb
+C:\CalculoCredito\CalculoCredito\obj\Debug\netcoreapp3.0\CalculoCredito.ConsoleApp.csprojAssemblyReference.cache
+C:\CalculoCredito\CalculoCredito\obj\Debug\netcoreapp3.0\CalculoCredito.ConsoleApp.AssemblyInfoInputs.cache
+C:\CalculoCredito\CalculoCredito\obj\Debug\netcoreapp3.0\CalculoCredito.ConsoleApp.AssemblyInfo.cs
+C:\CalculoCredito\CalculoCredito\obj\Debug\netcoreapp3.0\CalculoCredito.ConsoleApp.csproj.CopyComplete
+C:\CalculoCredito\CalculoCredito\obj\Debug\netcoreapp3.0\CalculoCredito.ConsoleApp.dll
+C:\CalculoCredito\CalculoCredito\obj\Debug\netcoreapp3.0\CalculoCredito.ConsoleApp.pdb

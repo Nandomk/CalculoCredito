@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nando\\Documents\\Teste\\CalculoCredito\\CalculoCredito\\CalculoCredito.ConsoleApp.csproj": {}
+    "C:\\CalculoCredito\\CalculoCredito\\CalculoCredito.ConsoleApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nando\\Documents\\Teste\\CalculoCredito\\CalculoCredito.Application\\CalculoCredito.Application.csproj": {
+    "C:\\CalculoCredito\\CalculoCredito.Application\\CalculoCredito.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nando\\Documents\\Teste\\CalculoCredito\\CalculoCredito.Application\\CalculoCredito.Application.csproj",
+        "projectUniqueName": "C:\\CalculoCredito\\CalculoCredito.Application\\CalculoCredito.Application.csproj",
         "projectName": "CalculoCredito.Application",
-        "projectPath": "C:\\Users\\nando\\Documents\\Teste\\CalculoCredito\\CalculoCredito.Application\\CalculoCredito.Application.csproj",
+        "projectPath": "C:\\CalculoCredito\\CalculoCredito.Application\\CalculoCredito.Application.csproj",
         "packagesPath": "C:\\Users\\nando\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nando\\Documents\\Teste\\CalculoCredito\\CalculoCredito.Application\\obj\\",
+        "outputPath": "C:\\CalculoCredito\\CalculoCredito.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\nando\\Documents\\Teste\\CalculoCredito\\CalculoCredito\\CalculoCredito.ConsoleApp.csproj": {
+    "C:\\CalculoCredito\\CalculoCredito\\CalculoCredito.ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nando\\Documents\\Teste\\CalculoCredito\\CalculoCredito\\CalculoCredito.ConsoleApp.csproj",
+        "projectUniqueName": "C:\\CalculoCredito\\CalculoCredito\\CalculoCredito.ConsoleApp.csproj",
         "projectName": "CalculoCredito.ConsoleApp",
-        "projectPath": "C:\\Users\\nando\\Documents\\Teste\\CalculoCredito\\CalculoCredito\\CalculoCredito.ConsoleApp.csproj",
+        "projectPath": "C:\\CalculoCredito\\CalculoCredito\\CalculoCredito.ConsoleApp.csproj",
         "packagesPath": "C:\\Users\\nando\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nando\\Documents\\Teste\\CalculoCredito\\CalculoCredito\\obj\\",
+        "outputPath": "C:\\CalculoCredito\\CalculoCredito\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -88,8 +88,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\nando\\Documents\\Teste\\CalculoCredito\\CalculoCredito.Application\\CalculoCredito.Application.csproj": {
-                "projectPath": "C:\\Users\\nando\\Documents\\Teste\\CalculoCredito\\CalculoCredito.Application\\CalculoCredito.Application.csproj"
+              "C:\\CalculoCredito\\CalculoCredito.Application\\CalculoCredito.Application.csproj": {
+                "projectPath": "C:\\CalculoCredito\\CalculoCredito.Application\\CalculoCredito.Application.csproj"
               }
             }
           }

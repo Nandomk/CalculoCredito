@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nando\\Documents\\Teste\\CalculoCredito\\CalculoCredito.Test\\CalculoCredito.Test.csproj": {}
+    "C:\\CalculoCredito\\CalculoCredito.Test\\CalculoCredito.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nando\\Documents\\Teste\\CalculoCredito\\CalculoCredito.Test\\CalculoCredito.Test.csproj": {
+    "C:\\CalculoCredito\\CalculoCredito.Test\\CalculoCredito.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nando\\Documents\\Teste\\CalculoCredito\\CalculoCredito.Test\\CalculoCredito.Test.csproj",
+        "projectUniqueName": "C:\\CalculoCredito\\CalculoCredito.Test\\CalculoCredito.Test.csproj",
         "projectName": "CalculoCredito.Test",
-        "projectPath": "C:\\Users\\nando\\Documents\\Teste\\CalculoCredito\\CalculoCredito.Test\\CalculoCredito.Test.csproj",
+        "projectPath": "C:\\CalculoCredito\\CalculoCredito.Test\\CalculoCredito.Test.csproj",
         "packagesPath": "C:\\Users\\nando\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nando\\Documents\\Teste\\CalculoCredito\\CalculoCredito.Test\\obj\\",
+        "outputPath": "C:\\CalculoCredito\\CalculoCredito.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
