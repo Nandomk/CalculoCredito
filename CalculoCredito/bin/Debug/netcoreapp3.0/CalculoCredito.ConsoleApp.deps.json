@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "CalculoCredito.ConsoleApp/1.0.0": {
+        "dependencies": {
+          "CalculoCredito.Application": "1.0.0"
+        },
+        "runtime": {
+          "CalculoCredito.ConsoleApp.dll": {}
+        }
+      },
+      "CalculoCredito.Application/1.0.0": {
+        "runtime": {
+          "CalculoCredito.Application.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalculoCredito.ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CalculoCredito.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

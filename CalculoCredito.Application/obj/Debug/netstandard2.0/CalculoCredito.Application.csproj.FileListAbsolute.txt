@@ -1,0 +1,8 @@
+C:\Users\nando\Documents\Teste\CalculoCredito\CalculoCredito.Application\bin\Debug\netstandard2.0\CalculoCredito.Application.deps.json
+C:\Users\nando\Documents\Teste\CalculoCredito\CalculoCredito.Application\bin\Debug\netstandard2.0\CalculoCredito.Application.dll
+C:\Users\nando\Documents\Teste\CalculoCredito\CalculoCredito.Application\bin\Debug\netstandard2.0\CalculoCredito.Application.pdb
+C:\Users\nando\Documents\Teste\CalculoCredito\CalculoCredito.Application\obj\Debug\netstandard2.0\CalculoCredito.Application.csprojAssemblyReference.cache
+C:\Users\nando\Documents\Teste\CalculoCredito\CalculoCredito.Application\obj\Debug\netstandard2.0\CalculoCredito.Application.AssemblyInfoInputs.cache
+C:\Users\nando\Documents\Teste\CalculoCredito\CalculoCredito.Application\obj\Debug\netstandard2.0\CalculoCredito.Application.AssemblyInfo.cs
+C:\Users\nando\Documents\Teste\CalculoCredito\CalculoCredito.Application\obj\Debug\netstandard2.0\CalculoCredito.Application.dll
+C:\Users\nando\Documents\Teste\CalculoCredito\CalculoCredito.Application\obj\Debug\netstandard2.0\CalculoCredito.Application.pdb
